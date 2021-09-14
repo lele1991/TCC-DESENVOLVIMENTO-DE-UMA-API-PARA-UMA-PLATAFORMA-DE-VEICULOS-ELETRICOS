@@ -1,0 +1,14 @@
+{
+    "clients":[
+        {
+            "id":"7eeab9db-d9c9-4865-bbda-9090baf9c884",
+            "tarifa":0,
+            "timestamp":1631388654.585204
+        },
+        {
+            "id":"7eeab9db-d9c9-4865-bbda-9090baf9c884",
+            "potencia":22000,
+            "timestamp":1631388660.019427
+        }
+    ]
+}
